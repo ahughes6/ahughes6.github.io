@@ -1,9 +1,13 @@
+
 p {
+  /*white-space:nowrap;*/
+  font-family:serif;
   background-color: lightblue;
+}
+  /*
   font-family:sans-serif;
   margin-left: 10px;
-  padding-left: 15px;
-}
+  padding-left: 15px;*/
 
 h1 {
   background-color: violet;
